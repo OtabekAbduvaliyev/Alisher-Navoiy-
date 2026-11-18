@@ -1,0 +1,6 @@
+{
+  "name": "Alisher Navoiy — Life & Timurid Renaissance",
+  "description": "An interactive museum-grade presentation chronicling the complete life, statesmanship, architecture, and literary legacy of Alisher Navoiy (1441–1501).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
